@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea2\CatalagoPelis\obj\Debug\net6.0\CatalagoPelis.csproj.AssemblyReference.cache
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea2\CatalagoPelis\obj\Debug\net6.0\CatalagoPelis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea2\CatalagoPelis\obj\Debug\net6.0\CatalagoPelis.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea2\CatalagoPelis\obj\Debug\net6.0\CatalagoPelis.AssemblyInfo.cs
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea2\CatalagoPelis\obj\Debug\net6.0\CatalagoPelis.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea2\CatalagoPelis\bin\Debug\net6.0\CatalagoPelis.exe
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea2\CatalagoPelis\bin\Debug\net6.0\CatalagoPelis.deps.json
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea2\CatalagoPelis\bin\Debug\net6.0\CatalagoPelis.runtimeconfig.json
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea2\CatalagoPelis\bin\Debug\net6.0\CatalagoPelis.dll
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea2\CatalagoPelis\bin\Debug\net6.0\ref\CatalagoPelis.dll
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea2\CatalagoPelis\bin\Debug\net6.0\CatalagoPelis.pdb
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea2\CatalagoPelis\obj\Debug\net6.0\CatalagoPelis.dll
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea2\CatalagoPelis\obj\Debug\net6.0\ref\CatalagoPelis.dll
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea2\CatalagoPelis\obj\Debug\net6.0\CatalagoPelis.pdb
+C:\Users\sebas\Documents\Universidad\Cuarto Semestre\.Net\Tareas\Tarea2\CatalagoPelis\obj\Debug\net6.0\CatalagoPelis.genruntimeconfig.cache
